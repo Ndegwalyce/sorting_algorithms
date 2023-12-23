@@ -1,6 +1,6 @@
 #include "sort.h"
 /**
-*bubble_sort - perform a bubble sort on the input array
+ * bubble_sort - perform a bubble sort on the input array
  * @size: size of the array 
  * @array: pointer to the input array
  */
